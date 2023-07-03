@@ -1,5 +1,5 @@
 # Clean-blog-full-features-Flask
-___
+
 ## A simple, clean yet fully responsive blog website built using Python Flask Framework.  
 
 
